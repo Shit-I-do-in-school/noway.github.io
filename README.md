@@ -115,7 +115,7 @@ src="https://www.youtube.com/watch?v=s4YuFAqQc-Y">
     }
     </script>
 
-<video width="320" height="240" controls>
+<video position="absolute" width="320" height="240" top="150" left="150" controls>
   <source src="movie.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
