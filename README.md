@@ -9,6 +9,9 @@
 <body>
 
 <h1>Femboyhack v2</h1>
+
+<meta name="author" content="Your master Cossegosse">
+
 <h2>
     <a href="http://www.femboyhack.com/">Not a real website</a>
 </h2>
