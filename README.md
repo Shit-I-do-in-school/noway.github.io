@@ -118,12 +118,6 @@ src="https://www.youtube.com/watch?v=s4YuFAqQc-Y">
       setTimeout(showSlides, 5000); // Change image every 5 seconds
     }
     </script>
-
-<video style="position:absolute;height:600px;width:500px;top:25px;left:350px" controls>
-  <source src="movie.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
 <h5>
     <img src="QnCXntz.png" alt="why is this here">
 </h5>
@@ -194,6 +188,12 @@ Your browser does not support the video tag.
         background-image: url('paradox-femboy.gif');
     }
 </style>
+
+<video style="position:absolute;height:600px;width:500px;top:25px;left:350px" controls>
+  <source src="movie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 <!-- Top Navigation Menu -->
 <div class="topnav">
     <a href="#home" class="active">Logo</a>
