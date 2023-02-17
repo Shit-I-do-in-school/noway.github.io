@@ -189,7 +189,7 @@ src="https://www.youtube.com/watch?v=s4YuFAqQc-Y">
     }
 </style>
 
-<video style="position:absolute;height:600px;width:500px;top:-100px;left:700px" controls>
+<video style="position:absolute;height:600px;width:500px;top:100px;left:700px" controls>
   <source src="movie.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
