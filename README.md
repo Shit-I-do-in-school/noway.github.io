@@ -12,10 +12,6 @@
 
 <meta name="author" content="Your master Cossegosse">
 
-<h2>
-    <a href="http://www.femboyhack.com/">Not a <sub>real website</sub></a>
-</h2>
-
 <article>
 <h2>Femboyhack info</h2>
 <p2>Femboyhack is a hack for the game csgo. Femboyhack is not out yet but will be soon and will dominate the hvh scene and the legit/closet chating scene. How can you get it? You can't because your not worth it. Fucking dog</p2>
